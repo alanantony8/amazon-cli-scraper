@@ -17,3 +17,4 @@ A TypeScript CLI tool to search Amazon.in, log in, handle OTP (MFA), and fetch s
 git clone https://github.com/your-username/amazon-cli-scraper.git
 cd amazon-cli-scraper
 npm install
+npm run scrape
