@@ -1,0 +1,571 @@
+{
+  "cookies": [
+    {
+      "name": "__bpn_uid",
+      "value": "56e9fef1-5519-44f8-b03b-cfba05d3bc17",
+      "domain": ".userreport.com",
+      "path": "/sync/init",
+      "expires": 1775307733.845621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ur_dc",
+      "value": "1743771733802",
+      "domain": ".userreport.com",
+      "path": "/sync/init",
+      "expires": 1775307733.84566,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__bpn_puid",
+      "value": "5148445e-9c9e-4a1a-8318-6ccc6bfb573c",
+      "domain": ".userreport.com",
+      "path": "/sync/init",
+      "expires": 1775307733.84568,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__bpn_uid",
+      "value": "1e2d9923-c444-4145-8728-6594b62a1083",
+      "domain": ".userreport.com",
+      "path": "/sync/put",
+      "expires": 1775307734.012333,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ur_dc",
+      "value": "1743771733969",
+      "domain": ".userreport.com",
+      "path": "/sync/put",
+      "expires": 1775307734.012421,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__bpn_puid",
+      "value": "435ac0ed-1ca6-4411-b761-f97579f39ffa",
+      "domain": ".userreport.com",
+      "path": "/sync/put",
+      "expires": 1775307734.012531,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "session-id",
+      "value": "259-5275917-9542645",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.740899,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i18n-prefs",
+      "value": "INR",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.741016,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ubid-acbin",
+      "value": "262-9448220-0039644",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.740953,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "id_pkel",
+      "value": "n0",
+      "domain": "www.amazon.in",
+      "path": "/",
+      "expires": 1743772614,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "id_pk",
+      "value": "eyJuIjoiMCJ9",
+      "domain": "www.amazon.in",
+      "path": "/",
+      "expires": 1743772614,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "lc-acbin",
+      "value": "en_IN",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.741032,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-token",
+      "value": "\"vdC6zVPYpapaHF1+pST026UVIQereRvGPRSbaSZtlnAlXOxd5OS5sTtoC06A8nnXk/aH0yXMQ7MfR6LWPxo6VJsHvLkixLkNQzX5bGac2prhRK6H+jr0XrugIlX1l9hOWUY/0KKvwPaqqvCjCCVAPBRAOraqOoAG4oPSfiEPx4m4i3KUb2huhmD86D1ro6QydOmvH8wHrdcfTfgqT6bJMePLjUk6ETHGv/oCPSic9n55tRNdWml9QgOSAqbi1M2zOljd8URa4meLKu9f3Bd2vmpHae2rWDKGmcchjNk3/d6DKFT1GItN556p8C7ifAOJ1R3C3o0PHL175jcRAox/pRdrHlm4AXdiUZYpzu/px9uYWPWPoB/MWg==\"",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.740975,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-acbin",
+      "value": "\"0bM2WzmrOSzyrKpuBOJoOx1KMwENNSt2dMSTyGomBu7VdMerVZLjZqqSxbbezPJ?\"",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.741006,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "at-acbin",
+      "value": "Atza|IwEBIG1dPORfKVINWNjsJyo2NVFee8_2HkfjnZFH4Vqckeu5CQUYqlwmAvzCGuBCRdO4hbJcimv0qwS6lkWoKqzPYa4oI47GctX8ADiutNMvsKjPce5ApDsyWsdqGszLY6QtOOIBJsrPF7pk57hgDRUf2T9AN12UMDOxIE_JewJddWeIUiDkoKVV33GTcGGYttUfH3U3Y6VDbIYFbMrdwGkcFJzyKizSfAXIkjUizwC0TknSu9HdVdx1pQbgxdWUtK06sWgZsAiSUpFMHlaRquu8C2Y9MuYgYlVIb4AxOPiuResmQg",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.534561,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sess-at-acbin",
+      "value": "\"UPy9uF2p6v7KRgq5FhsMRGo2t5f6pduJ+mShF6p1Vew=\"",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.534643,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sst-acbin",
+      "value": "Sst1|PQGE4aTANmuHW1p_wDOzIkq5CekkVZ2m1p4Llx_ji0lJ3GNS4f94577cLXhuJojG_7gtDvsZ4FAybSACvubAezHBnM6RiRzYbmL3oFqGhr7b7PY2iZ6Il0sKCuVEMmprstI1erFdkYMkokdHBdIdncHjXFlDbgZ6BigPpYK3BMu5wFZF2pzoj_rLQjFMQulYPzVvbfVoNnpg57IF2XQZncSdtZCpcw9iaV9E_s-OPkllCQV817Yw3zv44TuYP6H5W68hb5B21DSOmpt-5AXFwHjShWBNfnbe78Y88VpX0Mp9OYE",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.534728,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-id-time",
+      "value": "2082787201l",
+      "domain": ".amazon.in",
+      "path": "/",
+      "expires": 1775307731.740989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-hit",
+      "value": "tb:s-16CSJXY6QNJQFVHW574A|1743771731769&t:1743771732388&adb:adblk_no",
+      "domain": "www.amazon.in",
+      "path": "/",
+      "expires": 1774011732,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-id",
+      "value": "AwjJh8L2a0iouqiT21gpkpU",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1767272533.462497,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1778331733.462638,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "value": "eyJ0ZW1wVUlEcyI6eyJhbWF6b24iOnsidWlkIjoiYlFKbnlBTzZUck9kXzV4bUZsdlZWZyIsImV4cGlyZXMiOiIyMDI1LTA0LTE4VDEzOjAyOjEzLjc1MDg3NDgyMloifX19",
+      "domain": ".pbs.yahoo.com",
+      "path": "/",
+      "expires": 1759496533.738751,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "hZr91beF8zMGCGyvEmdksXcxFn4n-_1H2QdanhL1JvjZgKPtGrdiPD17xa65ivmVsF_UlZ4iFoHEhgG8sXIFxWEbaPatBHcTrD1LLAizBnY.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1751547733.822743,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1751547733.822806,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "4461193615573456017",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1751547733.822833,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "2271077371374407174",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1751547733.782691,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1777986133.782782,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "value": "145:PD72Rm87QZWzJroNSAS35Q",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1746363733.782886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "Z.-YVW4sBy8AMXesAFIuWAAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1775307734.705482,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "5536",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1751547733.818806,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "5536",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1751547734.705522,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4/YF7/.XF']wIg2GVQnT3p+!]tbPl1M]o$IyEVU[V1pDvbfoa6_6aHNKWDE9zlbQhoQccxwspuXrJJ#BI7y)N[UD!!#?4*6FRZ",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1751547733.822785,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "353dda1160b36afc9d8913bab8f3dd5b",
+      "domain": ".ads.stickyadstv.com",
+      "path": "/",
+      "expires": 1746363734.190707,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cnx_userId",
+      "value": "2-16b6589a138c4546acb40065cfff91ec",
+      "domain": ".connatix.com",
+      "path": "/",
+      "expires": 1746363733.93902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AFFICHE_W",
+      "value": "XT5StgKJpIdd85",
+      "domain": ".weborama.fr",
+      "path": "/",
+      "expires": 1777726935.021924,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "2b9b971f-60e6-44fe-b3e0-58d56bc988dd",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1751547734.088297,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1743771734",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1751547734.088346,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "um",
+      "value": "!416,JnT3PNrJQ6JdEzivTs-UN5T7RN4yJy.5pfrI-2NXkQwNXJ8K2KJlH2pVXDbFLYlwmG0tgg,1751547734",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1751547734.146542,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "umeh",
+      "value": "!416,0,1805979734,-1",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1751547734.146583,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid-bp-30833",
+      "value": "nchynJggSGCKZ4UctSZGeA",
+      "domain": ".ads.stickyadstv.com",
+      "path": "/",
+      "expires": 1744981334.190765,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|hNM4qVeh/MnRKioqdEhFA1ogzmfJZelxZmrEFwg1it/llLkLO27k9+5bjCLY5JaWtN6iVSnrs3nyUhTWCqUS/K1sEWZomT4FxD6eoMVMhhFKu1a3wwUsPql1QuGPffUVoGrY1S7Z1S2Bq1u0XziNGXTV4pUZPxxwSbePZj6z0VAReVIHnSgo8ibqJ2YLsJ/3EBFoJ26F0Dg=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1775307734.212926,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "M92SO1CN-1Z-5ZR7",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1775307734.212972,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "M92SO1CN-1Z-5ZR7",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1775307734.212992,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "value": "1|hNM4qVeh/MnRKioqdEhFA1ogzmfJZelxZmrEFwg1it/llLkLO27k9+5bjCLY5JaWtN6iVSnrs3nyUhTWCqUS/K1sEWZomT4FxD6eoMVMhhFKu1a3wwUsPql1QuGPffUVoGrY1S7Z1S2Bq1u0XziNGXTV4pUZPxxwSbePZj6z0VAReVIHnSgo8ibqJ2YLsJ/3EBFoJ26F0Dg=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1775307734.213019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "value": "56980239624352749730789594964332127430",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1759323734.292515,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "value": "56980239624352749730789594964332127430",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1759323734.292621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitor",
+      "value": "7984b026-535f-4d5f-824c-6369c79d9731",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1775307734.380498,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "status",
+      "value": "0",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1775307734.380618,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "f8fe51e6-eb7e-4bba-a5ec-ff1f04d732bd|1743771734",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1775307734.61251,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnHvYfTq_rK4J6NXv-3NaywvPBoyWtChPtVtpDv4haSC3yLUok5sja07jxiJzY",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1778331734.707721,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluidp",
+      "value": "2870847344109631106933",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1751547734.764574,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "2870847344109631106933",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1751547734.764611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.amazon.in",
+      "localStorage": [
+        {
+          "name": "csa-ctoken-16CSJXY6QNJQFVHW574A",
+          "value": "1743775332364"
+        },
+        {
+          "name": "csa-tabbed-browsing",
+          "value": "{\"lastActive\":{\"visible\":true,\"pid\":\"nwm0d7-iopbnr-am5va3-c1jt0c\",\"tid\":\"9htb0r-72bplt-akwwd-wguspo\",\"ent\":{\"rid\":\"16CSJXY6QNJQFVHW574A\"}},\"lastInteraction\":{\"id\":\"bqe557-e5ce41-qhuooi-kmdo6o\",\"used\":true},\"time\":1743771732365,\"initialized\":true}"
+        },
+        {
+          "name": "csa-ctoken-TWENJ5ZQYRGPTAZHG4GR",
+          "value": "1743775314475"
+        },
+        {
+          "name": "csm-bf",
+          "value": "[\"16CSJXY6QNJQFVHW574A\",\"0S1KDK1553GAQ341K8F1\",\"TWENJ5ZQYRGPTAZHG4GR\",\"6VTY8BK495J72BSFQNVT\"]"
+        },
+        {
+          "name": "a-font-class",
+          "value": "a-ember"
+        },
+        {
+          "name": "amznfbgid",
+          "value": "X10-8673548-1155437:1743771730"
+        },
+        {
+          "name": "csm:adb",
+          "value": "adblk_no"
+        },
+        {
+          "name": "csm-hit",
+          "value": "tb:s-16CSJXY6QNJQFVHW574A|1743771731769&t:1743771732388&adb:adblk_no"
+        },
+        {
+          "name": "csa-ctoken-0S1KDK1553GAQ341K8F1",
+          "value": "1743775315820"
+        },
+        {
+          "name": "csa-ctoken-6VTY8BK495J72BSFQNVT",
+          "value": "1743775313106"
+        }
+      ]
+    }
+  ]
+}
